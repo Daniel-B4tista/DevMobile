@@ -29,4 +29,4 @@ jobs:
           context: . # Usa a pasta raiz do projeto
           push: true # Envia para o registry
           # Mude "seu-usuario" para o seu usuário real abaixo!
-          tags: seu-usuario/todo-app:latest
+          tags: danielbatista006/todo-app:latest
